@@ -1,1 +1,1 @@
-# infotech2
+# task3-game
